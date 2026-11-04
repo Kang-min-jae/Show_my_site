@@ -4,7 +4,9 @@
 
 **🔗 서비스 바로가기: [stilltheater.com](https://stilltheater.com)**
 
-![메인 화면](images/main.png)
+![메인 화면](images/main.png)<img width="921" height="882" alt="image" src="https://github.com/user-attachments/assets/f285e9e5-02d6-480b-96c5-725dec972ea0" />
+<img width="912" height="571" alt="image" src="https://github.com/user-attachments/assets/9db1bc9f-73bd-4ce1-9af7-c44c6ae621d3" />
+
 
 ---
 
@@ -46,6 +48,8 @@ STILL THEATER는 영화를 본 뒤 **별점, 한줄평, 항목별 평점**을 �
 - **수상 기록**: 주요 영화제 수상 이력 표시
 
 ![영화 상세: 항목별 평점, 한줄평, 공식 예고편](images/movie-detail.png)
+<img width="1568" height="730" alt="image" src="https://github.com/user-attachments/assets/2b2a372e-6282-4681-b18a-20cd8c8da4c0" />
+
 
 ### 개인화
 - **추천**: 내가 남긴 평점을 바탕으로 한 영화 추천과 "추천 N%" 표시 (협업 필터링 기반)
@@ -57,6 +61,9 @@ STILL THEATER는 영화를 본 뒤 **별점, 한줄평, 항목별 평점**을 �
 - **영화제 수상작 투표**: 부문별로 수상작을 예측하고 투표 현황 확인
 
 ![올해의 Best: 추천도와 한줄평 미리보기](images/best.png)
+
+<img width="912" height="571" alt="image" src="https://github.com/user-attachments/assets/70b343c6-1092-4a98-8cf6-a13cb7b2b306" />
+
 
 ### 계정과 운영
 - **소셜 로그인**: Google, 카카오, 네이버 + 아이디 로그인
